@@ -1,1 +1,2 @@
 huggingface_hub==0.25.2
+openai>=1.0.0  # 推荐使用最新稳定版（当前为1.x+）
